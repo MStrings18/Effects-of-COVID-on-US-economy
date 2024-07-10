@@ -20,8 +20,6 @@
  2. Search for and retrieve the relevant data series for unemployment and participation rates for each
  state.
 
-# Effects of COVID-19 on US Economy
-
  ```python
  from fredapi import Fred
  fred_key = 'YOUR_FRED_API_KEY'
